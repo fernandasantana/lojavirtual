@@ -3437,8 +3437,8 @@
 
 .btn-busca-move {
   position: absolute;
-  top: 0px;
-  right: 0px;
+  top: 12px;
+  right: 2px;
   width: 48px;
   height: 38px;
   padding-right: 0px;
@@ -3447,6 +3447,7 @@
   font-family: 'Fontawesome webfont', sans-serif;
   color: #167bcb;
   font-size: 17px;
+  text-decoration: none;
 }
 
 .btn-busca-move:hover {
